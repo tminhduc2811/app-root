@@ -17,5 +17,5 @@ export default defineConfig({
     minify: false,
     cssCodeSplit: false
   },
-  base: 'app-root'
+  base: '/app-root/'
 })
